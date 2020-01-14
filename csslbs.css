@@ -1,0 +1,40 @@
+li {
+    list-style:none;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    color:black;
+    text-decoration: underline;
+}
+
+body {
+    background-color: black;
+    font-size: 14px;
+    background-image: url('Clifford.gif');
+background-repeat: no-repeat;
+background-position: right;
+}
+
+.register {
+    text-align: center;
+}
+
+h4, h1, h2, h3, h5 {
+    color:#87F5FB;
+}
+
+div, td, tr, p {
+    color: orange;
+}
+
+.par a:hover {
+
+    background-color:#8A2BE2;
+}
+
+a {
+  color:#C3BEF7;
+}
